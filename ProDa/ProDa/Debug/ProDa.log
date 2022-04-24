@@ -1,0 +1,19 @@
+﻿  Ynot.cpp
+E:\ProDa\ProDa\Ynot.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ProDa\ProDa\Ynot.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ProDa\ProDa\Ynot.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\ProDa\ProDa\Node.h(22,10): error C2995: 'Node<T>::Node(void)': function template has already been defined
+E:\ProDa\ProDa\Node.h(11): message : see declaration of 'Node<T>::Node'
+E:\ProDa\ProDa\Node.h(28,10): error C2995: 'Node<T>::Node(const T &)': function template has already been defined
+E:\ProDa\ProDa\Node.h(12): message : see declaration of 'Node<T>::Node'
+E:\ProDa\ProDa\Node.h(35,10): error C2995: 'Node<T>::Node(const T &,Node<T> *)': function template has already been defined
+E:\ProDa\ProDa\Node.h(13): message : see declaration of 'Node<T>::Node'
+E:\ProDa\ProDa\Node.h(41,15): error C2995: 'void Node<T>::setItem(const T &)': function template has already been defined
+E:\ProDa\ProDa\Node.h(14): message : see declaration of 'Node<T>::setItem'
+E:\ProDa\ProDa\Node.h(47,15): error C2995: 'void Node<T>::setNext(Node<T> *)': function template has already been defined
+E:\ProDa\ProDa\Node.h(15): message : see declaration of 'Node<T>::setNext'
+E:\ProDa\ProDa\Node.h(53,12): error C2995: 'T Node<T>::getItem(void) const': function template has already been defined
+E:\ProDa\ProDa\Node.h(16): message : see declaration of 'Node<T>::getItem'
+E:\ProDa\ProDa\Node.h(59,19): error C2995: 'Node<T> *Node<T>::getNext(void) const': function template has already been defined
+E:\ProDa\ProDa\Node.h(17): message : see declaration of 'Node<T>::getNext'
+E:\ProDa\ProDa\Ynot.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
